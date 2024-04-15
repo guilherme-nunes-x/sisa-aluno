@@ -69,13 +69,13 @@ p {
 }
 h1 {
   font-size: 70px;
-  margin-top: 8%;
+  margin-top: 6%;
 }
 
 #vs {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 15px;
 }
 
 label {
@@ -87,8 +87,7 @@ input {
   border: 3px solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(90deg, #198cb5, #5338b5);
-  padding: 12px;
-  width: 50vh;
+  width: 56vh;
   outline: none;
   font-size: 20px;
   letter-spacing: 2px;
@@ -120,9 +119,8 @@ section {
   gap: 6%;
   margin-top: 10%;
   padding: 1%;
-  padding-bottom: 2%; 
 }
-
-
-
+.ts{
+  box-shadow: 4px 4px 2px #5338b5;
+}
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200.. 800&display=swap");
