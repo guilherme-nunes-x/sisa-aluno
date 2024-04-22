@@ -69,8 +69,7 @@ p {
 }
 h1 {
   font-size: 70px;
-  margin-top: 2%;
-  margin-bottom: 5%;
+  margin-top: 6%;
 }
 
 #vs {
@@ -88,7 +87,7 @@ input {
   border: 3px solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(90deg, #198cb5, #5338b5);
-  width: 66vh;
+  width: 56vh;
   outline: none;
   font-size: 20px;
   letter-spacing: 2px;
@@ -111,16 +110,15 @@ input {
 
 section {
   background: #fff;
-  height: auto;
-  width: 52%;
+  height: 65vh;
+  width: 50%;
   border-radius: 15px;
   display: flex;
   align-items: center;
   flex-direction: column;
   gap: 6%;
-  margin-top: 5%;
-  padding: 3%;
-  margin-bottom: 5%;
+  margin-top: 10%;
+  padding: 1%;
 }
 .ts{
   box-shadow: 4px 4px 2px #5338b5;
