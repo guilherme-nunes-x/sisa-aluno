@@ -17,9 +17,9 @@
 
       <p>Escolha uma das opções abaixo:</p>
 
-      <a href="long.php" class="px">login</a>
-      <a href="ins.php" class="px">inscrever</a>
-      <a href="tabs.php" class="px">Tabelas</a>
+      <a href="long.php" class="px">Login</a>
+      <a href="ins.php" class="px">Inscrever</a>
+      <a href="tabs.php" class="px">Dados</a>
     </section>
   </body>
 </html>
