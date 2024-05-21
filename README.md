@@ -10,3 +10,10 @@
 -  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## The project is not yet complete :boom:
+
+* Banco de dados e conexão php: 🟢
+* Inscrição: 🟢
+* Login: 🟢
+* Mostrar dados (tabelas): 🔴
+* Modificar dados: 🔴
+* Remover dados: 🔴
