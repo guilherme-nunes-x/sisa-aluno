@@ -23,7 +23,7 @@ if(isset($_POST['submit']) && !empty($_POST['email']) && !empty($_POST['senha'])
     if(mysqli_num_rows($resul) < 1){
         unset($_SESSION['email']);
         unset($_SESSION['senha']);
-        header ('location : professor.php');
+        header ('location: professor.php');
     }
     else{
         $_SESSION['email'] = $email;
