@@ -14,7 +14,6 @@
   <body>
     <section>
       <h1>Login Aluno</h1>
-
       <form action="crud_aluno.php" method="post">
         <div id="vs">
           <label for="">E-mail</label>
