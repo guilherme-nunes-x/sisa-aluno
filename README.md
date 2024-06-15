@@ -14,6 +14,6 @@
 * Banco de dados e conexão php: 🟢
 * Inscrição: 🟢
 * Login: 🟢
-* Mostrar dados (tabelas): 🔴
+* Mostrar dados (tabelas): 🟢
 * Modificar dados: 🔴
 * Remover dados: 🔴
